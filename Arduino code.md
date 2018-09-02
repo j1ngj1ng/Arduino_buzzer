@@ -25,7 +25,7 @@ void loop() {
   }
 }
 
-
+/* 이건 왜 있는거지..오류난당..
 
 for(int cnt = 0; cnt < 10; cnt++){
   for(int i = 100; i < 300; i++){
@@ -38,5 +38,5 @@ for(int cnt = 0; cnt < 10; cnt++){
   }
 }
   
-noTone(piezo);
+noTone(piezo);*/
 ```
